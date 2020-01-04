@@ -1,4 +1,4 @@
-# High5Devs - Organização 
+# Organização 
 
 * Os meetups realizados nos dias de semana a noite, deverão ter 2 palestras. Isto evita que pessoas que moram longe do local sejam impossibilitadas de participar de todo o evento. 
 
