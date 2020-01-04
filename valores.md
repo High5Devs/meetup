@@ -8,4 +8,4 @@
 
 * Buscamos ampliar a diversidade de pessoas nas comunidades de tecnologia.
 
-* Buscamos viabilizar na participação de todo o nível de pessoas nos nossos eventos, desde pessoas que não estão no mercado de TI até pessoas experientes. 
+* Buscamos viabilizar a participação de todo o nível de pessoas nos nossos eventos, desde pessoas que não estão no mercado de TI até pessoas experientes. 
