@@ -1,4 +1,4 @@
-# Valores - High5Devs
+# Valores
 
 * Buscamos dar espaço para pessoas de grupos sub representados da sociedade e pessoas iniciantes na contribuição com a comunidade. 
 
